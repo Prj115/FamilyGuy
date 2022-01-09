@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+  	<Name>FamilyGuy</Name>
+    <Assembly>FamilyGuy.dll</Assembly>
+    <AddInId>d08d38e5-e712-457f-b2f8-e6f6d274e335</AddInId>
+    <FullClassName>FamilyGuy.RevitBinding</FullClassName>
+    <VendorId>PRJ115</VendorId>
+    <VendorDescription>Project115</VendorDescription>
+  </AddIn>
+</RevitAddIns>
